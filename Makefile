@@ -1,2 +1,2 @@
 build:
-	@go build -o mplayer main.go
+	@go build -o mplayer bin/main.go
