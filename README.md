@@ -2,7 +2,7 @@
 A ffmpeg Player development for Go
 
 # Example
-```golang
+```bash
 git clone git@github.com:hysios/go-ffmpeg-player.git
 cd go-ffmpeg-player
 
