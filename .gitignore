@@ -1,0 +1,5 @@
+bin/
+videos/
+
+.vscode/
+.DS_Store
